@@ -1,0 +1,45 @@
+---
+title: "Summary report"
+output: html_document
+params:
+  n: NA
+  y1: NA
+  y2: NA
+---
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+params$n
+```
+
+# Aggregation made for the period `r params$y1` - `r params$y2`
+
+## Regional level
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(plotly)
+
+df <- as.data.frame(params$n)
+
+plot_ly(df, 
+        x = ~value, 
+        color = ~region, 
+        type = "box", 
+        showlegend=FALSE)%>%
+  layout(autosize = F, width = '300%', height = '200%')
+```
+
+## Country level
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(plotly)
+
+df <- as.data.frame(params$n)
+
+plot_ly(df, 
+        x = ~value, 
+        color = ~country, 
+        type = "box", 
+        showlegend=FALSE)%>%
+  layout(autosize = F, width = '300%', height = '200%')
+```
+
