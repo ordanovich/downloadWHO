@@ -1,6 +1,5 @@
-<p align="center">
 <a href="https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true"  onclick="window.open('http://www.bigmustard.co.uk/models/view/dik-cadbury/622');return false"></a>
-</p>
+
 
 
 
