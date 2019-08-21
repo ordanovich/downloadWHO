@@ -1,11 +1,9 @@
-<script type='text/JavaScript'>
-    var myRedirect = function(){
-        window.location.href = 'Some other location';
-    }
-</script>
 <p align="center">
-  <img src="https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true" onclick='myRedirect()' style='cursor:pointer'/>
+<a href="https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true"  onclick="window.open('http://www.bigmustard.co.uk/models/view/dik-cadbury/622');return false"></a>
 </p>
+
+
+
 
 ## Interactive application for programmatic data retrieval from [EuroStat](https://ec.europa.eu/eurostat/data/database)
 
