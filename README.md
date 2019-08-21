@@ -1,5 +1,6 @@
-<a href="https://gist.github.com/rxaviers/7360908" alt="Image description" target="_blank" style="display: inline-block; width: 50px; height; 50px; background-image: url('https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true');"></a>
-
+<p align="center">
+  <img src="https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true" onClick="https://gist.github.com/rxaviers/7360908">
+</p>
 
 ## Interactive application for programmatic data retrieval from [EuroStat](https://ec.europa.eu/eurostat/data/database)
 
