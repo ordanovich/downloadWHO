@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true" onClick="https://gist.github.com/rxaviers/7360908">
+  <img src="https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true" 
 </p>
+  
+  <p><a href="https://www.computerhope.com/"><img src="https://www.computerhope.com/logo.gif"></a></p>
 
 ## Interactive application for programmatic data retrieval from [EuroStat](https://ec.europa.eu/eurostat/data/database)
 
