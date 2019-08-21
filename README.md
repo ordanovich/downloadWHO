@@ -1,5 +1,10 @@
+<script type='text/JavaScript'>
+    var myRedirect = function(){
+        window.location.href = 'Some other location';
+    }
+</script>
 <p align="center">
-  <img src="https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true" onclick='https://stackoverflow.com/questions/10396490/center-an-image-with-a-link-on-it'>
+  <img src="https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true" onclick='myRedirect()' style='cursor:pointer'/>
 </p>
 
 ## Interactive application for programmatic data retrieval from [EuroStat](https://ec.europa.eu/eurostat/data/database)
