@@ -1,6 +1,6 @@
 <p align="center"><a href="http://193.146.75.235/sample-apps/final_apps/layout/"><img src="https://github.com/ordanovich/images/blob/master/portadaWlogos.png?raw=true"></a></p>
 
-## Interactive application for programmatic data retrieval from [WHO](https://www.who.int/nutgrowthdb/database/en/)[GHO](https://www.who.int/gho/en/)
+## Interactive application for programmatic data retrieval from [WHO](https://www.who.int/nutgrowthdb/database/en/)/[GHO](https://www.who.int/gho/en/)
 
 This appication is based on the [**WHO** package](https://github.com/expersso/WHO). To learn more about the functionality of the package please refer to the [tutorial](https://cran.r-project.org/web/packages/WHO/vignettes/who_vignette.html).
 
